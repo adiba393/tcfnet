@@ -1,0 +1,27 @@
+# Data (see data/README.md — raw data is not committed)
+data/*.csv
+data/*.xlsx
+data/*.xls
+!data/README.md
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model artifacts / large outputs (uncomment if you save trained models locally)
+# *.h5
+# *.pt
+# *.pkl

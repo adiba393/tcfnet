@@ -1,0 +1,28 @@
+# Core data handling
+numpy
+pandas
+
+# Plotting
+matplotlib
+seaborn
+
+# Classical ML / preprocessing / metrics
+scikit-learn
+
+# Classical time-series models (ARIMA, VAR)
+statsmodels
+pmdarima
+
+# Facebook/Meta Prophet (used in a few exploratory notebooks)
+prophet
+
+# Deep learning (LSTM / GRU / Transformer / CNN-LSTM hybrids)
+tensorflow
+torch
+
+# Diagram generation (only needed for notebooks/00_pipeline_diagram)
+mermaid_diagram
+
+# Jupyter
+jupyterlab
+notebook
